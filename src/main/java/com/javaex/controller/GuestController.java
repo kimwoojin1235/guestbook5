@@ -53,6 +53,5 @@ public class GuestController {
 		}else {//실패
 			return"/passerror";
 		}
-		//리스트에서 no값을 적어주어 포워드 해줌으로 no값을 여기서 포워드하지 않아도됨
 	}
 }
